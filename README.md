@@ -10,7 +10,7 @@ doctl registry login
 
 e você estará autenticado ao seu Registry de imagens de containers da Digital Ocean. 
 
-A imagem docker que eu utilizo está no meu respositório "registry.digitalocean.com/dellabeneta/webapp:latest" que é publico. Sendo assim, uma vez que você estiver autenticado no Registry da DO, conseguirá efetuar seu pull normalmente. Caso queria o source code da aplicação, ele está em outro repositório aqui no meu github, segue: 
+A imagem docker que eu utilizo está no meu respositório "registry.digitalocean.com/dellabeneta/webapp:latest" que é publico. Sendo assim, uma vez que você estiver autenticado no Registry da DO, conseguirá efetuar seu pull normalmente. Caso queria o source code da aplicação, ele está em outro repositório aqui no meu github, segue: https://github.com/dellabeneta/k8s-project-docker-webapp
 
 # O ambiente usado para o projeto foi:
 
