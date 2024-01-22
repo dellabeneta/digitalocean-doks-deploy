@@ -7,6 +7,12 @@ https://github.com/dellabeneta/k8s-project-kubernetes-doks
 
 Projeto contendo os arquivos .YAML para uso com a aplicação 'kubectl', efetuando o deploy dos objetos dentro do cluster K8S (DOKS) no provider Digital Ocean.
 
+Como este projeto é uma sequência direto da "parte um", entendo que você já possui configurado o doctl, sendo assim, basta executar o comando: 
+
+doctl registry login
+
+e você estará autenticado ao seu Registry de imagens de containers da Digital Ocean.
+
 # O ambiente usado para o projeto foi:
 
 #### Linux Ubuntu 22.04.3 LTS (Jammy Jellyfish) via WSL2
