@@ -1,4 +1,4 @@
-# K8S-Project | KUIBECTL e MANIFESTOS YAML para deploy
+# K8S-Project | KUBECTL e MANIFESTOS YAML para deploy
 
 <img src="https://drive.google.com/uc?export=view&id=1OzWoyfLh4ktvfKSnGczvdTqaP-YYRJbU" width="1000">
 
