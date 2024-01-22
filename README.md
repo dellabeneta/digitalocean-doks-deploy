@@ -4,7 +4,7 @@
 
 Projeto contendo os arquivos .YAML para uso com a aplicação 'kubectl', efetuando o deploy dos objetos dentro do cluster K8S (DOKS) no provider Digital Ocean.
 
-Como este projeto é uma sequência direto da "parte dois", entendo que você já possui configurado o doctl, sendo assim, basta executar o comando: 
+Como este projeto é uma sequência direto da "parte um", entendo que você já possui configurado o doctl, sendo assim, basta executar o comando: 
 
 doctl registry login
 
