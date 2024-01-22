@@ -1,13 +1,10 @@
-# Bem-vindo(a) ao K8S-Project | 2/3 
-Essa é a parte "dois" do projeto. Aqui a lista completa com as 3/3 partes:
-https://github.com/dellabeneta/k8s-project-terraform-infraas
-https://github.com/dellabeneta/k8s-project-kubernetes-doks
+# K8S-Project | KUIBECTL e MANIFESTOS YAML para deploy
 
 <img src="https://drive.google.com/uc?export=view&id=1OzWoyfLh4ktvfKSnGczvdTqaP-YYRJbU" width="1000">
 
 Projeto contendo os arquivos .YAML para uso com a aplicação 'kubectl', efetuando o deploy dos objetos dentro do cluster K8S (DOKS) no provider Digital Ocean.
 
-Como este projeto é uma sequência direto da "parte um", entendo que você já possui configurado o doctl, sendo assim, basta executar o comando: 
+Como este projeto é uma sequência direto da "parte dois", entendo que você já possui configurado o doctl, sendo assim, basta executar o comando: 
 
 doctl registry login
 
