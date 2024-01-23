@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: webapp
-  namespace: dellabeneta
+  #namespace: dellabeneta
   labels:
     app: webapp
 spec:
@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: registry.digitalocean.com/dellabeneta/webapp:latest
+        image: registry.digitalocean.com/dellabeneta-k8s-project/webapp:v1
         resources:
           requests:
             memory: "100Mi"

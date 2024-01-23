@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: ReplicaSet
 metadata:
   name: webapp
-  namespace: dellabeneta
+  #namespace: dellabeneta
   labels:
     app: webapp
 spec:
