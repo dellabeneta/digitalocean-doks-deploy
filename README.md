@@ -1,5 +1,5 @@
 ## K8S-Project | KUBECTL e MANIFESTOS YAML para deploy
-Faz parte da playlist: https://youtube.com/playlist?list=PLXV200dpiF4UFLIPNe9JNARiEAnfjOKZ8&si=gQAQr4tFqVOYbSiG
+Playlist: https://youtube.com/playlist?list=PLXV200dpiF4UFLIPNe9JNARiEAnfjOKZ8&si=gQAQr4tFqVOYbSiG
 
 <img src="https://drive.google.com/uc?export=view&id=1OzWoyfLh4ktvfKSnGczvdTqaP-YYRJbU" width="1000">
 
